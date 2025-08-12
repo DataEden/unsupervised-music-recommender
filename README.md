@@ -3,7 +3,7 @@
 **This repo is a mini-project demonstrating the design of an unsupervised music recommender.**  
 Goal: explore “waiting-room” music’s impact on student attentiveness by clustering songs via embeddings and recommending similar tracks.
 
-Repo: `music-recommendation-mini-tlab-7`  
+Repo: `music-recommendation-mini-tlab`  
 Data: 61 songs with **music2vec** embeddings (vector features)
 
 ---
