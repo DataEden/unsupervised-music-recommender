@@ -5,7 +5,7 @@ import joblib
 from collections import Counter
 
 # --- CONFIGURATION ---
-MODEL_PATH = "kmeans_model.pkl"
+MODEL_PATH = "model/kmeans_model.pkl"
 EMBEDDINGS_CSV = "data/music_embeds.csv"
 EMBEDDING_COL_PREFIX = "dim_"
 
